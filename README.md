@@ -10,13 +10,21 @@ Esta atribuição usa dados do UC Irvine Machine Learning Repository , um reposi
 As seguintes descrições das 9 variáveis ​​no conjunto de dados foram retiradas do site da UCI :
 
 1 - Data : Data no formato dd / mm / aaaa
+
 2 - Hora : hora no formato hh: mm: ss
+
 3 - Global_active_power : energia ativa média por minuto global da família (em quilowatt)
+
 4 - Global_reactive_power : energia reativa média por minuto global doméstica (em quilowatt)
+
 5 - Tensão : tensão média por minuto (em volt)
+
 6 - Intensidade_global : intensidade de corrente média por minuto global da família (em ampere)
+
 7 - Sub_metering_1 : sub-medição de energia No. 1 (em watt-hora de energia ativa). Corresponde à cozinha, que contém essencialmente uma máquina de lavar louça, um forno e um micro-ondas (a placa eléctrica não é eléctrica mas sim a gás).
+
 8 - Sub_metering_2 : sub-medição de energia No. 2 (em watt-hora de energia ativa). Corresponde à lavanderia, contendo uma máquina de lavar, uma secadora, uma geladeira e uma luz.
+
 9 - Sub_metering_3 : sub-medição de energia No. 3 (em watt-hora de energia ativa). Corresponde a um aquecedor elétrico de água e um ar condicionado.
 
 Carregando os dados
